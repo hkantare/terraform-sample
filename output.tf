@@ -12,6 +12,7 @@ output "namewithnewlinechar" {
 
 output "namewithmultiline" {
     value = var.namewithmultiline
+}
 
 output "namewithnewlinecharmultiline" {
     value = var.namewithnewlinecharmultiline
