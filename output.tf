@@ -10,7 +10,7 @@ output "namewithnewlinechar" {
     value = var.namewithnewlinechar
 }
 
-output "template_file" {
+output "namewithmultiline" {
     value = var.namewithmultiline
 
 output "namewithnewlinecharmultiline" {
